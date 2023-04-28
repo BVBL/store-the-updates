@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application/>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type/>
+        <map_page/>
+        <mobile_title>Leave Management application</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>cmdb_ci_appl_dot_net</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-25 08:29:52</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>e7d92c6b97922110e162f9271153afd9</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Leave Management application</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Leave Management System" source="x_821942_lms">1126738697522110e162f9271153afda</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Leave Management System">1126738697522110e162f9271153afda</sys_scope>
+        <sys_update_name>sys_app_module_e7d92c6b97922110e162f9271153afd9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-25 08:31:21</sys_updated_on>
+        <timeline_page/>
+        <title>Leave Management application</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Leave Management System">1126738697522110e162f9271153afda</application>
+        <file_path/>
+        <instance_id>5dc100b2db4e9110387021c4059619e7</instance_id>
+        <instance_name>dev136406</instance_name>
+        <name>sys_app_module_e7d92c6b97922110e162f9271153afd9</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application/><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type/><map_page/><mobile_title>Leave Management application</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>cmdb_ci_appl_dot_net</name><order/><override_menu_roles>false</override_menu_roles><query/><report/><roles/><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-04-25 08:29:52</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>e7d92c6b97922110e162f9271153afd9</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Leave Management application</sys_name><sys_overrides/><sys_package display_value="Leave Management System" source="x_821942_lms">1126738697522110e162f9271153afda</sys_package><sys_policy/><sys_scope display_value="Leave Management System">1126738697522110e162f9271153afda</sys_scope><sys_update_name>sys_app_module_e7d92c6b97922110e162f9271153afd9</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-04-25 08:31:21</sys_updated_on><timeline_page/><title>Leave Management application</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>1215394980</payload_hash>
+        <record_name>Leave Management application</record_name>
+        <reverted_from/>
+        <source>5d26738697522110e162f9271153afdb</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-25 08:31:21</sys_created_on>
+        <sys_id>009aec2f97922110e162f9271153af2a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>187b789e7d30000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-25 08:31:21</sys_updated_on>
+        <type>Module</type>
+        <update_guid>089aec2f2a922110f3a359fa584cdb29</update_guid>
+        <update_guid_history>089aec2f2a922110f3a359fa584cdb29:1215394980,6e3a60af6d9221107daf1078c09ddb91:-149048875</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Leave Management application">30f095a097e62110e162f9271153af48</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-28 13:52:59</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>1d17b3455063476891ccb1b7ed39d7b9</sys_id>
+        <sys_metadata>e7d92c6b97922110e162f9271153afd9</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Leave Management application</sys_name>
+        <sys_package display_value="Leave Management System" source="x_821942_lms">1126738697522110e162f9271153afda</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Leave Management System">1126738697522110e162f9271153afda</sys_scope>
+        <sys_scope_delete display_value="">a1618747047b48a2b32b23f0cf5ea7e4</sys_scope_delete>
+        <sys_update_name>sys_app_module_e7d92c6b97922110e162f9271153afd9</sys_update_name>
+        <sys_update_version display_value="sys_app_module_e7d92c6b97922110e162f9271153afd9">009aec2f97922110e162f9271153af2a</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-28 13:52:59</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
