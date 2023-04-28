@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="live_feed=false" db_object_id="795d082397522110e162f9271153af7b" label="Leave Request" max_length="40" name="x_821942_lms_leave_request" type="collection">
+        <element label="Accured" max_length="40" name="accured" type="float"/>
+        <element choice="3" default="nyr" label="Approval" max_length="40" name="approval" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Approved" value="aprd"/>
+                <element inactive_on_update="false" label="Not yet requested" value="nyr"/>
+                <element inactive_on_update="false" label="Rejected" value="rej"/>
+                <element inactive_on_update="false" label="Requested" value="req"/>
+            </choice>
+        </element>
+        <element label="Balance" max_length="40" name="balance" type="float"/>
+        <element label="Comments" max_length="40" name="comments" type="string"/>
+        <element label="Duration" max_length="40" name="duration" type="float"/>
+        <element label="End date" max_length="40" name="end_date" type="glide_date"/>
+        <element label="Half day" max_length="40" name="half_day" type="boolean"/>
+        <element choice="1" label="Leave type" max_length="40" name="leave_type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Casual Leave" value="cl"/>
+                <element inactive_on_update="false" label="Emergency Leave" value="el"/>
+                <element inactive_on_update="false" label="Sick Leave" value="sl"/>
+            </choice>
+        </element>
+        <element default="javascript:gs.getUserID();" dynamic_default_value="2fd8e97bef3221002841f7f775c0fbc1" label="Requested by" max_length="32" name="requested_by" reference="sys_user" type="reference" use_dynamic_default="true"/>
+        <element label="start date" max_length="40" name="start_date" type="glide_date"/>
+        <element choice="3" default="open" label="Statuts" max_length="40" name="statuts" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Cancelled" value="cancelled"/>
+                <element inactive_on_update="false" label="Open" value="open"/>
+                <element inactive_on_update="false" label="Submitted" value="submitted"/>
+            </choice>
+        </element>
+        <element default="javascript:getNextObjNumberPadded();" dynamic_default_value="fdcb83a85f220100a9ad2572f2b4773c" label="Number" max_length="40" name="string" type="string" use_dynamic_default="true"/>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <element label="Taken" max_length="40" name="taken" type="float"/>
+        <index name="index">
+            <element name="requested_by"/>
+        </index>
+        <index name="index2">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>

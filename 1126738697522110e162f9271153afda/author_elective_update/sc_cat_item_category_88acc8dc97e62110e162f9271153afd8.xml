@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="DELETE">
+        <sc_cat_item display_value="Record Leave Request">b6473b0897662110e162f9271153af94</sc_cat_item>
+        <sc_category display_value="Facilities">d25201c8c611227a00667da13c6d33af</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-27 14:16:00</sys_created_on>
+        <sys_id>88acc8dc97e62110e162f9271153afd8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Facilities.Record Leave Request</sys_name>
+        <sys_package display_value="Leave Management System" source="x_821942_lms">1126738697522110e162f9271153afda</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Leave Management System">1126738697522110e162f9271153afda</sys_scope>
+        <sys_update_name>sc_cat_item_category_88acc8dc97e62110e162f9271153afd8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-27 14:16:00</sys_updated_on>
+    </sc_cat_item_category>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Leave Management System">1126738697522110e162f9271153afda</application>
+        <file_path/>
+        <instance_id>5dc100b2db4e9110387021c4059619e7</instance_id>
+        <instance_name>dev136406</instance_name>
+        <name>sc_cat_item_category_88acc8dc97e62110e162f9271153afd8</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category"><sc_cat_item_category action="INSERT_OR_UPDATE"><sc_cat_item display_value="Record Leave Request">b6473b0897662110e162f9271153af94</sc_cat_item><sc_category display_value="Facilities">d25201c8c611227a00667da13c6d33af</sc_category><sys_class_name>sc_cat_item_category</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-04-27 14:16:00</sys_created_on><sys_id>88acc8dc97e62110e162f9271153afd8</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Facilities.Record Leave Request</sys_name><sys_package display_value="Leave Management System" source="x_821942_lms">1126738697522110e162f9271153afda</sys_package><sys_policy/><sys_scope display_value="Leave Management System">1126738697522110e162f9271153afda</sys_scope><sys_update_name>sc_cat_item_category_88acc8dc97e62110e162f9271153afd8</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-04-27 14:16:00</sys_updated_on></sc_cat_item_category></record_update>]]></payload>
+        <payload_hash>-1561125069</payload_hash>
+        <record_name>Facilities.Record Leave Request</record_name>
+        <reverted_from/>
+        <source>5d26738697522110e162f9271153afdb</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-27 14:16:01</sys_created_on>
+        <sys_id>d4acc010972a2110e162f9271153afb5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>187c3122d370000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-27 14:16:01</sys_updated_on>
+        <type>Catalog Item Category</type>
+        <update_guid>10acc010ba2a211048f1772d5826dcb5</update_guid>
+        <update_guid_history>10acc010ba2a211048f1772d5826dcb5:-1561125069</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Facilities.Record Leave Request">5ae7d81c972a2110e162f9271153af69</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-27 15:05:18</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_category">sc_cat_item_category</sys_db_object>
+        <sys_id>97650e21a3b54e08a16280b489673a40</sys_id>
+        <sys_metadata>88acc8dc97e62110e162f9271153afd8</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Facilities.Record Leave Request</sys_name>
+        <sys_package display_value="Leave Management System" source="x_821942_lms">1126738697522110e162f9271153afda</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Leave Management System">1126738697522110e162f9271153afda</sys_scope>
+        <sys_scope_delete display_value="">a1618747047b48a2b32b23f0cf5ea7e4</sys_scope_delete>
+        <sys_update_name>sc_cat_item_category_88acc8dc97e62110e162f9271153afd8</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_category_88acc8dc97e62110e162f9271153afd8">d4acc010972a2110e162f9271153afb5</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-27 15:05:18</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

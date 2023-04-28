@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="INSERT_OR_UPDATE">
+        <catalog_item display_value="Leave request Record producer ">c1655098972a2110e162f9271153af00</catalog_item>
+        <catalog_variable>IO:8e865498972a2110e162f9271153afc3</catalog_variable>
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field/>
+        <mandatory>true</mandatory>
+        <order>100</order>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-27 15:02:53</sys_created_on>
+        <sys_id>2f47dcd8972a2110e162f9271153afb4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>end_date</sys_name>
+        <sys_package display_value="Leave Management System" source="x_821942_lms">1126738697522110e162f9271153afda</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Leave Management System">1126738697522110e162f9271153afda</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_2f47dcd8972a2110e162f9271153afb4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-27 15:02:53</sys_updated_on>
+        <table/>
+        <ui_policy display_value="Hide  and mandatory enddate ">f7171cd8972a2110e162f9271153afe7</ui_policy>
+        <variable>end_date</variable>
+        <variable_set/>
+        <visible>true</visible>
+    </catalog_ui_policy_action>
+</record_update>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="DELETE">
+        <catalog_item display_value="Record Leave Request">b6473b0897662110e162f9271153af94</catalog_item>
+        <catalog_variable>IO:3b79041c97e62110e162f9271153afbb</catalog_variable>
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field/>
+        <mandatory>true</mandatory>
+        <order>100</order>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-27 14:26:44</sys_created_on>
+        <sys_id>850f80d0972a2110e162f9271153afd1</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_name>end_date</sys_name>
+        <sys_package display_value="Leave Management System" source="x_821942_lms">1126738697522110e162f9271153afda</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Leave Management System">1126738697522110e162f9271153afda</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_850f80d0972a2110e162f9271153afd1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-27 14:37:42</sys_updated_on>
+        <table/>
+        <ui_policy display_value="Make enddate mandatory">d8decc90972a2110e162f9271153af8d</ui_policy>
+        <variable>end_date</variable>
+        <variable_set/>
+        <visible>true</visible>
+    </catalog_ui_policy_action>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Leave Management System">1126738697522110e162f9271153afda</application>
+        <file_path/>
+        <instance_id>5dc100b2db4e9110387021c4059619e7</instance_id>
+        <instance_name>dev136406</instance_name>
+        <name>catalog_ui_policy_action_850f80d0972a2110e162f9271153afd1</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action"><catalog_ui_policy_action action="INSERT_OR_UPDATE"><catalog_item display_value="Record Leave Request">b6473b0897662110e162f9271153af94</catalog_item><catalog_variable>IO:3b79041c97e62110e162f9271153afbb</catalog_variable><cleared>false</cleared><disabled>ignore</disabled><field/><mandatory>true</mandatory><order>100</order><sys_class_name>catalog_ui_policy_action</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-04-27 14:26:44</sys_created_on><sys_id>850f80d0972a2110e162f9271153afd1</sys_id><sys_mod_count>5</sys_mod_count><sys_name>end_date</sys_name><sys_package display_value="Leave Management System" source="x_821942_lms">1126738697522110e162f9271153afda</sys_package><sys_policy/><sys_scope display_value="Leave Management System">1126738697522110e162f9271153afda</sys_scope><sys_update_name>catalog_ui_policy_action_850f80d0972a2110e162f9271153afd1</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-04-27 14:37:42</sys_updated_on><table/><ui_policy display_value="Make enddate mandatory">d8decc90972a2110e162f9271153af8d</ui_policy><variable>end_date</variable><variable_set/><visible>true</visible></catalog_ui_policy_action></record_update>]]></payload>
+        <payload_hash>-415290432</payload_hash>
+        <record_name>end_date</record_name>
+        <reverted_from/>
+        <source>5d26738697522110e162f9271153afdb</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-27 14:37:42</sys_created_on>
+        <sys_id>8a915c54972a2110e162f9271153af0a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>187c32608450000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-27 14:37:42</sys_updated_on>
+        <type>Catalog UI Policy Action</type>
+        <update_guid>c2915c54622a2110198d09aa8dcebb0a</update_guid>
+        <update_guid_history>c2915c54622a2110198d09aa8dcebb0a:-415290432,72515c543c2a21101ac970eac1ff2203:-1402237768,9eef0cd0a22a21108cca4bed007dc352:1181760636,d0cf8cd00f2a211022ac84a99cc35b73:-1260817597,ce5fc0d04a2a211042c6a13ab7c5c4fa:-346178817,691fc0d0582a2110cecc1b5e0923d6f5:1181760636</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="end_date">63c7581c972a2110e162f9271153af30</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-27 15:04:50</sys_created_on>
+        <sys_db_object display_value="" name="catalog_ui_policy_action">catalog_ui_policy_action</sys_db_object>
+        <sys_id>00f8c9641f2d459e80a5fd819caa9319</sys_id>
+        <sys_metadata>850f80d0972a2110e162f9271153afd1</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>end_date</sys_name>
+        <sys_package display_value="Leave Management System" source="x_821942_lms">1126738697522110e162f9271153afda</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Leave Management System">1126738697522110e162f9271153afda</sys_scope>
+        <sys_scope_delete display_value="">a1618747047b48a2b32b23f0cf5ea7e4</sys_scope_delete>
+        <sys_update_name>catalog_ui_policy_action_850f80d0972a2110e162f9271153afd1</sys_update_name>
+        <sys_update_version display_value="catalog_ui_policy_action_850f80d0972a2110e162f9271153afd1">8a915c54972a2110e162f9271153af0a</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-27 15:04:50</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
